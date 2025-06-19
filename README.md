@@ -42,4 +42,4 @@ Add customer lifetime value (CLV) prediction
 Incorporate additional behavioral features to improve segmentation
 
 Automate regular reporting for marketing teams
-
+ data comes from https://www.kaggle.com/datasets/carrie1/ecommerce-data
